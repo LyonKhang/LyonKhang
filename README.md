@@ -1,2 +1,2 @@
 "# LyonKhang"
-Hi I am stil learning Java and C++. I a little of Python.
+Hi I am still learning C#. I have learned C++, C program, Python, Java.
